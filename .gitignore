@@ -1,0 +1,17 @@
+# Blender backups
+*.blend1
+
+# Render output (too large for git)
+render_output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temp files
+*.tmp
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
